@@ -1,4 +1,4 @@
-# vue-reaction-timer
+# vue-tailwindcss-scss-reaction-timer
 
 ## Project setup
 ```
